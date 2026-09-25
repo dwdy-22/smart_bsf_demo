@@ -1,0 +1,18 @@
+# Kredensial akun demo — JANGAN pernah di-push ke repo
+js/auto-login.js
+
+# File sistem OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Log & temporary files
+*.log
+*.tmp
+
+# Folder hasil ekstrak / archive (opsional, hapus baris ini kalau memang perlu di-push)
+*.zip
