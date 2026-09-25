@@ -30,8 +30,8 @@
 (function () {
   'use strict';
 
-  var AUTO_LOGIN_EMAIL    = "username";
-  var AUTO_LOGIN_PASSWORD = "password";
+  var AUTO_LOGIN_EMAIL    = "dewidayati51@gmail.com";
+  var AUTO_LOGIN_PASSWORD = "kapibara1144";
 
   var _attempting = false;
 
